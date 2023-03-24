@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: #000;
+    position: absolute;
+    bottom: 40px;
+    background-color: rgba(244, 193, 63, 0.402);
+    padding: 30px;
+    width: 65%;
+    line-height: 1.5;
+   
+}
+header{
+    display: flex;
+   padding: 30px;
+    
+    flex-wrap: wrap;
+   
+}
+header img{
+    width: 100%;
+   border-top: 8px solid rgb(241, 199, 11);
+}
+.header-1{
+    width: 50%;
+    padding: 20px;
+    line-height: 3;
+    
+}
+
+
+    
